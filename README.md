@@ -43,9 +43,9 @@ dataset/
 ## Download Checkpoint
 Click the links below to download the checkpoint for the corresponding dataset.
 
-[H.pth](https://pan.baidu.com/s/1DBBxVu3V4OQT8_M3hKAJWA?pwd=shmk)
+[R-H.pth](https://pan.baidu.com/s/1DBBxVu3V4OQT8_M3hKAJWA?pwd=shmk)
 
-[R.pth](https://pan.baidu.com/s/1R66efgyDYessGQ_pWjQGLw?pwd=ynkv)
+[H-R.pth](https://pan.baidu.com/s/1R66efgyDYessGQ_pWjQGLw?pwd=ynkv)
 
 ## Training
 Todo
